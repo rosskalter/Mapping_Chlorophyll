@@ -1,5 +1,5 @@
 # Mapping_Chlorophyll
- - Project to map chlorophyll concentrations for the Laboratory for Cross-Disciplinary Study of Marine Systems (CROSSMAR) at The University of Haifa
+Project to map chlorophyll concentrations for the Laboratory for Cross-Disciplinary Study of Marine Systems (CROSSMAR) at The University of Haifa
 
 ## Overarching goal:
 To link the properties of the phytoplankton community (as described in the table), to spatial patterns (as emerge from the satellite data)
